@@ -1,0 +1,15 @@
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\bin\Debug\net6.0\Tasc008.exe
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\bin\Debug\net6.0\Tasc008.deps.json
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\bin\Debug\net6.0\Tasc008.runtimeconfig.json
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\bin\Debug\net6.0\Tasc008.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\bin\Debug\net6.0\Tasc008.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.csproj.AssemblyReference.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.AssemblyInfoInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.AssemblyInfo.cs
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.csproj.CoreCompileInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\refint\Tasc008.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\Tasc008.genruntimeconfig.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examples008\Tasc008\obj\Debug\net6.0\ref\Tasc008.dll
